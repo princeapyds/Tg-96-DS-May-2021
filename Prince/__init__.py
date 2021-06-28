@@ -1,1 +1,4 @@
 print("Hi.......")
+
+class Demo :
+    pass
